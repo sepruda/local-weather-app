@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+body {
+	font-family: 'Raleway', sans-serif;
+	margin-top: 100px;
+	text-align: center;
+	background-color: black;
+}
+.usynlig {
+	display:none;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
